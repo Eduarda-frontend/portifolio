@@ -1,0 +1,23 @@
+# Informa que a configuração é a mais importante.
+root = true
+
+# Essa configuração serve para todos arquivos.
+[*]
+
+# Tipo de identação.
+indent_style = space
+
+# Tamanho da identação.
+indent_size = 2
+
+# Formatação do final da linha.
+end_of_line = lf
+
+# Formatação dos caracteres.
+charset = utf-8
+
+# Nos obriga a colocar um espaço após simbolos, por exemplo, após a ','.
+trim_trailing_whitespace = true
+
+# Finaliza o arquivo com uma linha em branco.
+insert_final_newline = true
